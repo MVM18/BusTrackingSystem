@@ -1,0 +1,1 @@
+The Bus Tracking System application is designed to streamline the management and tracking of buses, routes, and users (commuters, attendants, and owners). It aims to improve transportation efficiency by enabling real-time tracking, passenger management, and emergency handling.
